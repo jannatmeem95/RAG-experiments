@@ -1,0 +1,4 @@
+some error in prev version.
+Picked user turns as queries for which the agent response is a solution meaning dialog act type is `respond_soltuion`.
+Picked the latest turn in the dialog preceding `respond_soltuion` dialog act.
+This incorporates more/longer history to the turns.
